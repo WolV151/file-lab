@@ -1,10 +1,3 @@
-/*
-    Name: Marin Donchev
-    SID: R00192936
-    Group: SDH4-A
-*/
-
-
 /********************************************************************
 Copyright 2010-2017 K.C. Wang, <kwang@eecs.wsu.edu>
 This program is free software: you can redistribute it and/or modify
